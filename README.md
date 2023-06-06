@@ -25,11 +25,13 @@ $sudo nano /etc/mosquitto/mosquitto.conf
 COPY AND PASTE THIS in .conf
 *************************************
 persistence true
+
 persistence_location /var/lib/mosquitto/
 
 log_dest file /var/log/mosquitto/mosquitto.log
 
 listener 1883 0.0.0.0
+
 allow_anonymous true
 
 include_dir /etc/mosquitto/conf.d
