@@ -20,7 +20,7 @@ The application is based on this repo from sterolabs
  
 fromm this repo  into the folder
 
-
+**********************************************************
 
 You will need to install the mosquitto MQTT server for this to work.
  
