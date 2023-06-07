@@ -7,7 +7,7 @@
  
  I have also included an application from a HMI programm called "Quick HMI"
  
- that application is displaying the data.
+ that application is displaying the data and it also sends data to a PLC.
   
  *******************************************************
 The application is based on this repo from sterolabs
