@@ -18,7 +18,7 @@ The application is based on this repo from sterolabs
  
  darknet_zed.py
  
-fromm this repo  into the folder
+from this repo  into the folder
 
 **********************************************************
 
