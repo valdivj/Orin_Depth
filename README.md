@@ -8,12 +8,8 @@
  I have also included an application from a HMI programm called "Quick HMI"
  
  that application is displaying the data.
- 
- 
- 
- 
- 
- 
+  
+ *******************************************************
 The application is based on this repo from sterolabs
  
  https://github.com/stereolabs/zed-yolo
