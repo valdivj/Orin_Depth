@@ -1,6 +1,27 @@
 # Orin_Depth
- Orin Depth with MQTT
+ This Repo contains the applications to run YOLO on a ZED 2 camera and 
  
+ extract the depth distance and the X & Y coordinates of the object being measured
+ 
+ It sends the data to a MQTT server to be used by other applications
+ 
+ I have also included an application from a HMI programm called "Quick HMI"
+ 
+ that application is displaying the data.
+ 
+ It is based on this repo from sterolabs
+ 
+ https://github.com/stereolabs/zed-yolo
+ 
+ After you get YOLO setup just drop
+ 
+ darknet_zed.py
+ 
+fromm this repo  into the folder
+
+
+
+You will need to install the mosquitto MQTT server for this to work.
  
 INSTALL MOSQUITTO MQTT SERVER
 
