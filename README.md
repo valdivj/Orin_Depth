@@ -9,7 +9,9 @@
  
  that application is displaying the data.
  
- It is based on this repo from sterolabs
+ 
+ 
+The application is based on this repo from sterolabs
  
  https://github.com/stereolabs/zed-yolo
  
